@@ -1,0 +1,6 @@
+E:\C# Chat Application\Instant Chat\OnlineContact\OnlineContact\bin\Debug\OnlineContact.dll
+E:\C# Chat Application\Instant Chat\OnlineContact\OnlineContact\bin\Debug\OnlineContact.pdb
+E:\C# Chat Application\Instant Chat\OnlineContact\OnlineContact\obj\Debug\OnlineContact.UserControl1.resources
+E:\C# Chat Application\Instant Chat\OnlineContact\OnlineContact\obj\Debug\OnlineContact.csproj.GenerateResource.Cache
+E:\C# Chat Application\Instant Chat\OnlineContact\OnlineContact\obj\Debug\OnlineContact.dll
+E:\C# Chat Application\Instant Chat\OnlineContact\OnlineContact\obj\Debug\OnlineContact.pdb
